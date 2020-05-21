@@ -1,3 +1,19 @@
+# Motivation
+This is a mini-group project executed during an SDA course. 
+
+# Quaranchat
+Website or forum where people in Quarantene can connect and chat. 
+
+# Learning outcome: 
+Goal of the project was to learn Basic Spring CRUD operations and develop full stack web application. 
+
+# Visuals
+
+![](Screenshot%202020-05-21%20at%2011.09.47.png)
+![](Screenshot%202020-05-21%20at%2011.10.08.png)
+![](Screenshot%202020-05-21%20at%2011.11.18.png)
+
+
 # SDA starter template
 
 This web starter template is based on Spring, PostgreSQL, React, React router and Axios. Check the following links for documentation and guides:
